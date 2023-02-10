@@ -1,0 +1,38 @@
+.icon:hover {
+  color: white;
+}
+
+a {
+  font-style: none;
+  text-decoration: none;
+}
+
+.icon {
+  font-size: 150%;
+  color: gray;
+}
+
+.footer-links > p {
+  cursor: pointer;
+}
+
+.footer-links > a {
+  text-decoration: none;
+  color: gray;
+}
+
+.footer-links > p:hover {
+  color: white;
+}
+
+.footer-links > a:hover {
+  color: white;
+}
+
+.copyright {
+  font-size: smaller;
+  margin-bottom: 0.5%;
+  text-align: center;
+  color: gray;
+  margin-top: 2%;
+}

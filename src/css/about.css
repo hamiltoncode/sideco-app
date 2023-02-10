@@ -1,0 +1,34 @@
+/* This is just for \n */
+.line-space {
+  white-space: pre-line;
+}
+
+#valores-description {
+  font-size: larger;
+}
+
+#span-valores {
+  color: green;
+  font-weight: bold;
+}
+
+.acronimo span {
+  color: green;
+  font-size: large;
+  font-weight: bolder;
+}
+
+.acronimo p {
+  font-size: large;
+  font-weight: 500;
+}
+
+.container-acronimo {
+  align-items: center;
+  background-color: rgba(0, 0, 0, .1);
+  border-radius: 2%;
+}
+
+.img-about {
+  width: 100vw;
+}
