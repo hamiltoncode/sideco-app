@@ -32,8 +32,7 @@ function App() {
       <WhatsApp />
       <div className="mt-5 pt-4">
         <Routes>
-          <Route path="/" element={<Navigate replace to={"/home"} />} />
-          <Route path="/home" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/services/" element={<Services />}>
             <Route path="limpiezaycafeteria" element={<LimpiezaCafeteria />} />
