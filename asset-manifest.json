@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a3a42c18.css",
-    "main.js": "/static/js/main.24813400.js",
+    "main.js": "/static/js/main.4881b906.js",
     "static/media/serviciosespecializados.jpg": "/static/media/serviciosespecializados.8afca266ae9fd05d30e0.jpg",
     "static/media/c3.jpg": "/static/media/c3.d86d653c2ec47459865c.jpg",
     "static/media/herosideco.png": "/static/media/herosideco.34b1a4aa4abc0c92e4f2.png",
@@ -14,10 +14,10 @@
     "static/media/colombia.svg": "/static/media/colombia.49ed69ce5da6cbdcad3608189c2cf118.svg",
     "index.html": "/index.html",
     "main.a3a42c18.css.map": "/static/css/main.a3a42c18.css.map",
-    "main.24813400.js.map": "/static/js/main.24813400.js.map"
+    "main.4881b906.js.map": "/static/js/main.4881b906.js.map"
   },
   "entrypoints": [
     "static/css/main.a3a42c18.css",
-    "static/js/main.24813400.js"
+    "static/js/main.4881b906.js"
   ]
 }
