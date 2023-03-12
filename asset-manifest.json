@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.72171a05.css",
-    "main.js": "/static/js/main.7c2c6d8f.js",
+    "main.js": "/static/js/main.528a14ee.js",
     "static/media/c4.jpg": "/static/media/c4.bbdf11bab0751214b0cb.jpg",
     "static/media/herosideco.png": "/static/media/herosideco.b0a6fbf4d3e299783e94.png",
     "static/media/impermeabilizacion.jpg": "/static/media/impermeabilizacion.962877a3e10d020f84dc.jpg",
@@ -16,10 +16,10 @@
     "static/media/colombia.svg": "/static/media/colombia.49ed69ce5da6cbdcad3608189c2cf118.svg",
     "index.html": "/index.html",
     "main.72171a05.css.map": "/static/css/main.72171a05.css.map",
-    "main.7c2c6d8f.js.map": "/static/js/main.7c2c6d8f.js.map"
+    "main.528a14ee.js.map": "/static/js/main.528a14ee.js.map"
   },
   "entrypoints": [
     "static/css/main.72171a05.css",
-    "static/js/main.7c2c6d8f.js"
+    "static/js/main.528a14ee.js"
   ]
 }
